@@ -22,7 +22,19 @@ left: 0;
 text-align: center;
 }
 
+.head_article{
+  
+ 
 
+  background-color: #2f2d2d;
+}
+.head_art_1{color: #f3efef;
+  padding-top: 20px;
+  padding: 20px;
+}
+.art_div{
+  padding: 10px;
+}
 .footer-text-left {
     font-size:25px;
     padding-left:40px;
